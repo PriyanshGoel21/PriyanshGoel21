@@ -40,6 +40,7 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used
+          plugin_repositories_featured: PriyanshGoel21/advent-of-code
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
