@@ -11,9 +11,9 @@
 <h1 align="center">Links</h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/priyansh-goel-4b87a4230/" title="LinkedIn Profile"><img width="75" style="padding-right: 2px; padding-left: 2px" src="images/linkedin.svg" alt="Linkedin Logo"></a>
-  <a href="mailto:priyanshgoel05@gmail.com" title="Email"><img width="75" style="padding-right: 2px; padding-left: 2px" src="images/mail.svg" alt="Gmail Logo"></a>
-  <a href="https://discord.gg/tJcjeah4sq" title="Discord"><img width="75" style="padding-right: 2px; padding-left: 2px" src="images/discord.svg" alt="Discord Logo"></a>
+  <a href="https://www.linkedin.com/in/priyansh-goel-4b87a4230/" title="LinkedIn Profile"><img width="75" src="images/linkedin.svg" alt="Linkedin Logo"></a>
+  <a href="mailto:priyanshgoel05@gmail.com" title="Email"><img width="75" src="images/mail.svg" alt="Gmail Logo"></a>
+  <a href="https://discord.gg/tJcjeah4sq" title="Discord"><img width="75" src="images/discord.svg" alt="Discord Logo"></a>
 </h5>
 
 <hr>
