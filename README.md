@@ -22,11 +22,13 @@
 <hr>
 
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-<img src="https://img.shields.io/badge/javascript-0459B3.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/python-0459B3.svg?style=for-the-badge&logo=python&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/rust-0459B3.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/TensorFlow-0459B3.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/django-0459B3.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Pycharm-0459B3.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-<img src="https://img.shields.io/badge/Git-0459B3.svg?style=for-the-badge&logo=git&logoColor=white" alt="PyCharm">
+<h5 align="center">
+    <img src="https://img.shields.io/badge/javascript-0459B3.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/python-0459B3.svg?style=for-the-badge&logo=python&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/rust-0459B3.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/TensorFlow-0459B3.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/django-0459B3.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Pycharm-0459B3.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+    <img src="https://img.shields.io/badge/Git-0459B3.svg?style=for-the-badge&logo=git&logoColor=white" alt="PyCharm">
+</h5>
 <hr>
