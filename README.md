@@ -10,9 +10,9 @@
 
 <h1 align="center">Links</h1>
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/priyansh-goel-4b87a4230/" title="LinkedIn Profile"><img width="" src="https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
-  <a href="mailto:priyanshgoel05@gmail.com" title="Email"><img width="" src="https://img.shields.io/badge/Email-%230175C2.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
-  <a href="https://discord.gg/tJcjeah4sq" title="Discord"><img width="" src="https://img.shields.io/badge/Discord-%230175C2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo"></a>
+  <a href="https://www.linkedin.com/in/priyansh-goel-4b87a4230/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/linkedin-%230175C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Logo"></a>
+  <a href="mailto:priyanshgoel05@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-%230175C2.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo"></a>
+  <a href="https://discord.gg/tJcjeah4sq" title="Discord"><img src="https://img.shields.io/badge/Discord-%230175C2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo"></a>
 </h5>
 
 <hr>
