@@ -35,5 +35,5 @@
 <hr>
 
 <h2 align="center">Statistics</h2>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<img align="center" src="/github-metrics.svg" alt="Metrics">
 <hr>
